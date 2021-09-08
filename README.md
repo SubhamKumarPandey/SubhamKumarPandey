@@ -33,8 +33,8 @@
 <br>
 <br>
    <p> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamkumarpandey&show_icons=true&locale=en&layout=compact" alt="subhamkumarpandey" height = 250 width = 300 />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamkumarpandey&" alt="subhamkumarpandey" height = 300 width = 300/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamkumarpandey&show_icons=true&locale=en&layout=compact" alt="subhamkumarpandey" height = 300 width = 200 />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamkumarpandey&" alt="subhamkumarpandey" height = 300 width = 400/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkumarpandey&show_icons=true&locale=en" alt="subhamkumarpandey" height = 300 width = 300 />
 </p>
 
